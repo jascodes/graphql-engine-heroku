@@ -24,7 +24,7 @@ Read more at [hasura.io](https://hasura.io) and the [docs](https://docs.hasura.i
 Deploy to Heroku and instantly get a realtime GraphQL API backed by Heroku Postgres:
 
 [![Deploy to
-Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/hasura/graphql-engine-heroku)
+Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/jascodes/graphql-engine-heroku)
 
 ![Create New App - Heroku](https://graphql-engine-cdn.hasura.io/heroku-repo/assets/create_new_app_heroku_3.png)
 
@@ -42,7 +42,7 @@ Navigate to `Data -> Create table` on the console and create a table called
 `profile` with the following columns:
 
 | name   | type                     |
-|--------|--------------------------|
+| ------ | ------------------------ |
 | `id`   | Integer (auto-increment) |
 | `name` | Text                     |
 
